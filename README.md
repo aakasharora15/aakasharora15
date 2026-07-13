@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://dezinn.com"><img src="https://img.shields.io/badge/Portfolio-dezinn.com-C8FF00?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aakasharora15"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aakasharora6"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
